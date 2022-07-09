@@ -1,5 +1,5 @@
-There is only one working code on the internet. This will be the 2. one :)
-I hope it will help you <3
+There is only one working code on the internet. This will be the 2. one
+I hope it will help you 
 
 The DumpTruck Problem
 • Six dump trucks are used to haul coal from the entrance of a small mine
